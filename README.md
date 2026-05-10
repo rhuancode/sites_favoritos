@@ -66,12 +66,6 @@ git clone <link-do-repositorio>
 
 ---
 
-## 👨‍💻 Autor
-
-**Rhuan Tavares Malaquias**
-
----
-
 ## 📚 Tecnologias utilizadas
 
 * HTML5
